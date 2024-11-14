@@ -1,0 +1,1 @@
+Deffa Rohman Wicaksono L0124149 Informatika. Singkatnya ini adalah sebuah projek sederhana mengenai to do list, web ini dibuat dengan menggunakan php dan didesain sesederhana mungkin. projek ini tentunya membantu para pemula seperti saya untuk mendapatkan fundamental dalam back end
